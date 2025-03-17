@@ -1,5 +1,5 @@
 ---
-title: "Panfleto"
+title: ""
 ---
 
 ![](pics/manifesto_infografic.png){width=90%}

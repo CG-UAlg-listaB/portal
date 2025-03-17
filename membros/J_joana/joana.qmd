@@ -6,10 +6,9 @@ image: J_joana.png
 
 ![](J_joana.png){width=50%}
 
--   **Função atual** | Investigadora, Coordenadora do RISE-Health UAlg, Professora Auxiliar Convidada na FMCB
+-   **Função atual** | Investigadora, Coordenadora do RISE-Health UAlg
 -   **Local** | RISE-Health UAlg, FMCB  
 -   **Campus** | Gambelas
--   **Sobre mim** | ""
--   **A minha visão para a UAlg** | ""
-
+-   **Sobre mim** | "Sou mãe, cientista, empreendedora e analista, com um olhar atento para as pessoas. Apaixonada por resolver problemas e fomentar a colaboração, acredito na importância das ligações humanas - seja na investigação, nos negócios ou à volta da mesa."
+-   **A minha visão para a UAlg** | "Acredito numa universidade que valoriza a ciência, a inovação e o empreendedorismo, promovendo a ligação entre a academia e a sociedade."
 

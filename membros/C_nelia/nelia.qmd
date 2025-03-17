@@ -6,9 +6,9 @@ image: C_nelia.png
 
 ![](C_nelia.png){width=50%} 
 
--   **Função atual** | Investigadora
+-   **Função atual** | Investigadora Auxiliar
 -   **Local** | CIMA, FCT
 -   **Campus** | Gambelas 
--   **Sobre mim** | ""
--   **A minha visão para a UAlg** |  ""
+-   **Sobre mim** | "Sou bióloga marinha, doutorada há 16 anos, e especializada em avaliação de impactos antropogénicos no mar profundo."
+-   **A minha visão para a UAlg** | "A UAlg deve-se distinguir pela excelência científica por forma a poder contribuir para a aplicação do que há de mais inovador pelo mundo na sua região e país."
 

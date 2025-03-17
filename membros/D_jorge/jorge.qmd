@@ -10,6 +10,8 @@ image: D_jorge.png
 -   **Função atual** | Investigador
 -   **Local** | CIAC, FCHS 
 -   **Campus** | Gambelas
--   **Sobre mim** | ""
--   **A minha visão para a Comissão de Trabalhadores da UAlg** | ""
+-   **Sobre mim** | "Sou um cinéfilo colecionador, com uma paixão pela história da cultura."
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** | "Acredito que a investigação desenvolvida na UAlg é fundamental para a construção de uma identidade regional  que represente um factor decisivo para o desenvolvimento e a coesão territorial do Algarve."
+ 
+ 
 

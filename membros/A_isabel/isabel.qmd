@@ -9,5 +9,5 @@ image: A_isabelDuarte.png
 -   **Função atual** | Investigadora
 -   **Local** | RISE-Health UAlg (CINTESIS)
 -   **Campus** | Gambelas
--   **Sobre mim** | "Faço voluntariado na Refood e gosto de tocar *ukulele* quando preciso de pensar."
--   **A minha visão para a UAlg** | "Acredito no poder da união e na força da colaboração para construir uma academia mais forte, resiliente e em constante evolução. Juntos somos mais e fazemos mais."
+-   **Sobre mim** | "Sou cientista, curiosa e transparente. Faço voluntariado na Refood e gosto de tocar *ukulele* quando preciso de pensar."
+-   **A minha visão para a UAlg** | "Acredito no poder da união e na força da colaboração para construir uma academia mais forte, resiliente e em constante evolução. Juntos somos mais e vamos mais longe."
