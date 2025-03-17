@@ -1,0 +1,14 @@
+---
+title: "Nélia Mestre"
+description: "CIMA | Centro de Investigação Marinha e Ambiental"
+image: C_nelia.png
+---
+
+![](C_nelia.png){width=50%} 
+
+-   **Função atual** | Investigadora
+-   **Local** | CIMA, FCT
+-   **Campus** | Gambelas 
+-   **Sobre mim** | ""
+-   **A minha visão para a UAlg** |  ""
+

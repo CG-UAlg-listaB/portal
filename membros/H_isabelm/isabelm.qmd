@@ -1,0 +1,14 @@
+---
+title: "Isabel Mendes"
+description: "CIMA | Centro de Investigação Marinha e Ambiental"
+image: H_isabelm.png
+---
+
+![](H_isabelm.png){width=50%}
+
+-   **Função atual** | Investigadora
+-   **Local** | CIMA, FCT
+-   **Campus** | Gambelas
+-   **Sobre mim** | ""
+-   **A minha visão para a UAlg** | ""
+

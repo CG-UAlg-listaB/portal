@@ -1,0 +1,15 @@
+---
+title: "Carolin Correia Hoffmann"
+description: "ABC-RI | Algarve Biomedical Center Research Institute"
+image: E_carolin.png
+---
+
+![](E_carolin.png){width=50%}
+
+-   **Função atual** | Investigadora
+-   **Local** | ABC-RI, FMCB
+-   **Campus** | Gambelas
+-   **Sobre mim** | "I'm Carolin Hoffmann, a biomedical researcher driven to understand the interplay of the immune system and mental health."
+-   **A minha visão para a UAlg** | "I want to invest in collaboration (not competition) and support research that helps make our university—and the world—a better place."
+
+

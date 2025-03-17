@@ -1,0 +1,15 @@
+---
+title: "Joana Xavier"
+description: "RISE-Health UAlg (CINTESIS)"
+image: J_joana.png
+---
+
+![](J_joana.png){width=50%}
+
+-   **Função atual** | Investigadora, Coordenadora do RISE-Health UAlg, Professora Auxiliar Convidada na FMCB
+-   **Local** | RISE-Health UAlg, FMCB  
+-   **Campus** | Gambelas
+-   **Sobre mim** | ""
+-   **A minha visão para a UAlg** | ""
+
+

@@ -1,0 +1,14 @@
+---
+title: "João Cascalheira"
+description: "ICArEHB | Centro Interdisciplinar de Arqueologia e Evolução do Comportamento Humano"
+image: B_joao.png
+---
+
+![](B_joao.png){width=50%}
+
+-   **Função atual** | Investigador e Coordenador do ICArEHB
+-   **Local** | ICArEHB, FCHS
+-   **Campus** | Gambelas
+-   **Sobre mim** | ""
+-   **A minha visão para a UAlg** | ""
+

@@ -1,0 +1,15 @@
+---
+title: "Hugo Oliveira"
+description: "ICArEHB | Centro Interdisciplinar de Arqueologia e Evolução do Comportamento Humano"
+image: G_hugo.png
+---
+
+![](G_hugo.png){width=50%}
+
+-   **Função atual** | Investigador
+-   **Local** | ICArEHB, FCHS
+-   **Campus** | Gambelas
+-   **Sobre mim** | ""
+-   **A minha visão para a UAlg** | ""
+
+

@@ -1,0 +1,15 @@
+---
+title: "Rui Silva"
+description: "Faculdade de Medicina e Ciências Biomédicas"
+image: I_rui.png
+---
+
+![](I_rui.png){width=50%}
+
+-   **Função atual** | Professor Auxiliar Convidado na FMCB
+-   **Local** | ABC-RI, FMCB
+-   **Campus** | Gambelas
+-   **Sobre mim** | ""
+-   **A minha visão para a UAlg** | ""
+
+

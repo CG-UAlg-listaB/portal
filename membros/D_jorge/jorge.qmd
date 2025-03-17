@@ -1,0 +1,15 @@
+---
+title: "Jorge Carrega"
+description: "CIAC | Centro de Investigação em Artes e Comunicação"
+image: D_jorge.png
+---
+
+![](D_jorge.png){width=50%}
+
+
+-   **Função atual** | Investigador
+-   **Local** | CIAC, FCHS 
+-   **Campus** | Gambelas
+-   **Sobre mim** | ""
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** | ""
+

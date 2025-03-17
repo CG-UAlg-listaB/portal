@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Lista B | Conselho Geral UAlg"
+  favicon: pics/favicon.png
+  navbar:
+    search: true
+    tools:
+      - icon: house-heart-fill
+        menu:
+          - text: UAlg
+            url: https://www.ualg.pt/
+    left:
+      - href: index.qmd
+        text: "Lista B"
+      - href: membros.qmd
+        text: "Membros"
+      - href: visoes_orientadoras.qmd
+        text: "Visões orientadoras"
+      - href: panfleto.qmd
+        text: "Panfleto"
+      - href: manifesto.qmd
+        text: "Manifesto"
+      - href: contacto.qmd
+        text: "Contacte-nos"
+      
+  back-to-top-navigation: true
+  page-footer: 
+    left: "Copyright 2025, Lista B - Conselho Geral UAlg" 
+    right: 
+      - icon: github
+        href: https://github.com/ListaB-ComissaoTrabalhadoresUAlg
+    background: light
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - customstyle.scss
+    toc: false
+
+editor: source
+
+
