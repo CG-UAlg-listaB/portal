@@ -6,9 +6,9 @@ image: B_joao.png
 
 ![](B_joao.png){width=50%}
 
--   **Função atual** | Investigador e Coordenador do ICArEHB
+-   **Função atual** | Investigador Coordenador 
 -   **Local** | ICArEHB, FCHS
 -   **Campus** | Gambelas
--   **Sobre mim** | ""
--   **A minha visão para a UAlg** | ""
+-   **Sobre mim** | "Sou arqueólogo e interesso-me por tudo o que define o comportamento humano, desde os seus primórdios até às dinâmicas do mundo actual. Compreender de onde viemos ajuda-nos a questionar para onde vamos."
+-   **A minha visão para a UAlg** | "Questionar, Simplificar, Transformar: a minha visão para a UAlg é a de uma universidade moderna e ambiciosa, que aposta em mais e melhor investigação como base fundamental para formar as próximas gerações. Ao mesmo tempo, quero uma UAlg que se posicione na vanguarda da implementação de estratégias inovadoras para reduzir burocracia, optimizar processos, e garantir um ambiente dinâmico, transparente, e eficiente para toda a comunidade académica."
 
