@@ -9,6 +9,6 @@ image: H_isabelm.png
 -   **Função atual** | Investigadora
 -   **Local** | CIMA, FCT
 -   **Campus** | Gambelas
--   **Sobre mim** | ""
--   **A minha visão para a UAlg** | ""
+-   **Sobre mim** | "A viver no Algarve há mais de 30 anos, primeiro como aluna, depois como investigadora, estou na UAlg a contribuir para compreender as condições ambientais presentes e passadas relacionadas com a variabilidade climática e os impactos antropogénicos."
+-   **A minha visão para a UAlg** | "A UAlg é feita de pessoas, juntos podemos fazer mais e melhor."
 
