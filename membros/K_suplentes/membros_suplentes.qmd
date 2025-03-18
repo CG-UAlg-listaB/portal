@@ -1,16 +1,46 @@
 ---
-title: ""
-description: ""
+title: " "
+description: "
+**Paulo Martel** | Prof. Auxiliar, FCT    
+**Adriana Guerreiro** | CEOT, FCT    
+**Godefroy Devevey** | ICArEHB    
+**Ana Cavaco Guerra** | CEOT, FCT   
+**Erwan Garel** | CIMA, FCT 
+"
 image: sup_image.png
 ---
 
 ![](sup_image.png){width=50%}
 
-- **Paulo Martel** | Prof. Auxiliar, FCT
-- **Adriana Guerreiro** | CEOT, FCT
-- **Godefroy Devevey** | ICArEHB, FCHS
-- **Ana Guerra** | CEOT, FCT
-- **Erwan Garel** | CIMA, FCT
+### **Paulo Martel** 
 
+-   **Função atual** | Professor Auxiliar
+-   **Local** | FCT
+-   **Campus** | Gambelas
 
+### **Adriana Guerreiro**
+
+-   **Função atual** | Investigadora
+-   **Local** | CEOT, FCT
+-   **Campus** | Gambelas
+
+### **Godefroy Devevey**
+
+-   **Função atual** | Investigador
+-   **Local** | ICArEHB, FCHS
+-   **Campus** | Gambelas
+-   **Sobre mim** | "I am a scientist, particularly interested in the science of research, which drives me across many fields of research and different functions."
+-   **A minha visão para a UAlg** | "Research for better education, Education for better research, University for Society."
+
+### **Ana Cavaco Guerra**
+
+-   **Função atual** | Investigadora
+-   **Local** | CEOT, FCT
+-   **Campus** | Gambelas
+
+### **Erwan Garel**
+
+-   **Função atual** | Investigador
+-   **Local** | CIMA, FCT
+-   **Campus** | Gambelas
 
