@@ -6,11 +6,11 @@ image: sup_image.png
 
 ![](sup_image.png){width=50%}
 
-- Paulo Martel | Professor Auxiliar, FCT
-- Adriana Guerreiro | CEOT, FCT
-- Godefroy Devevey | ICArEHB, FCHS
-- Ana Guerra | CEOT, FCT
-- Erwan Garel | CIMA, FCT
+- **Paulo Martel** | Prof. Auxiliar, FCT
+- **Adriana Guerreiro** | CEOT, FCT
+- **Godefroy Devevey** | ICArEHB, FCHS
+- **Ana Guerra** | CEOT, FCT
+- **Erwan Garel** | CIMA, FCT
 
 
 
