@@ -4,27 +4,49 @@ title: "As Nossas Visões"
 
 ::: {.callout-caution appearance="default" collapse="true" icon=false}
 
-### 1. Reforçar a Investigação como Motor de Excelência
+## 1. Garantir o Progresso Sustentado da Investigação na UAlg
 
-Acreditamos que a excelência científica é essencial para fortalecer o prestígio da UAlg, atraindo talento, financiamento e parcerias estratégicas, num ciclo virtuoso de crescimento e inovação. Para alcançar este objetivo, defendemos:
+  Os investigadores são parte integral da missão da UAlg. Para maximizar o seu contributo, a **UAlg deve ser capaz de reter e atrair talento**, promovendo simultaneamente a estabilidade e a inovação. Propomos as seguintes estratégias para fortalecer a posição da UAlg como um centro de excelência académica e científica:
+  
+  - Integrar os investigadores de forma mais ativa nas estruturas de governança e decisão, assegurando uma participação plural e significativa nos processos estratégicos da Universidade.
+
+  - Defender **quadros claros de progressão na carreira**, que ofereçam estabilidade e reconheçam a excelência científica e académica, promovendo um ambiente motivador e meritocrático, é uma das nossas principais bandeiras. É urgente a criação de um regulamento próprio da UAlg para os investigadores, garantindo critérios transparentes de avaliação e progressão na carreira, alinhados com os princípios CoARA, já subscritos pela UAlg. Este regulamento deve assegurar processos de avaliação que considerem a diversidade de percursos na investigação, bem como a diversidade dos contributos dos investigadores para a ciência, a academia e a sociedade.
+
+  - **Proporcionar acesso a formação contínua** é essencial para garantir o desenvolvimento das competências dos investigadores e docentes ao longo das suas carreiras. Para isso, seria interessante criar uma unidade ou iniciativas dedicadas ao desenvolvimento de carreira, com especial atenção aos jovens investigadores, incluindo estudantes de doutoramento e mestrado.
+
+  - Adicionalmente, é crucial **promover a saúde mental e o bem-estar profissional**, assegurando um ambiente de trabalho equilibrado e saudável, que permita aos investigadores desenvolverem o seu potencial de forma sustentável ao longo do tempo.
+
+  - Defendemos a importância estratégica da contratação de investigadores para a UAlg, estabilizando e atraindo talento através da implementação de dois modelos distintos de contratação de investigadores:
+
+  1. **Contratos destinados à retenção de talento e redução da precariedade**, assegurando a continuidade de projetos e investigações bem estabelecidos, e reconhecendo o valor dos investigadores internos que já demonstraram repetidamente a sua contribuição.
+
+  2. **Novos contratos abertos e competitivos, orientados para a atração de investigadores** que contribuam para o rejuvenescimento, diversificação e internacionalização do corpo de investigação, alinhados com os interesses estratégicos e o modelo de sustentabilidade económica adotado pela UAlg.
+
+:::
+
+::: {.callout-caution appearance="default" collapse="true" icon=false}
+
+### 2. Reforçar a Investigação como Motor de Excelência
+
+Acreditamos que a **excelência científica é essencial para fortalecer o prestígio da UAlg**, atraindo talento, financiamento e parcerias estratégicas, num ciclo virtuoso de crescimento e inovação. Para alcançar este objetivo, defendemos:
 
  - A adoção de estratégias sustentáveis para expandir e apoiar a comunidade científica, garantindo estabilidade e condições adequadas para o desenvolvimento de investigação de excelência.
  
- - O investimento contínuo na manutenção e melhoria de estruturas ágeis, que promovam a captação eficiente de financiamento e reduzam os entraves administrativos, permitindo maior foco na produção de conhecimento.
+ - O investimento contínuo na **manutenção e melhoria de estruturas ágeis**, que promovam a captação eficiente de financiamento e reduzam os entraves administrativos, permitindo maior foco na produção de conhecimento.
  
- - A promoção da investigação fundamental lado a lado com a investigação aplicada, alinhadas com o papel da UAlg como catalisadora de desenvolvimento económico e social, com benefícios claros para a região e o país.
+ - A promoção da investigação fundamental lado a lado com a investigação aplicada, alinhadas com o **papel da UAlg como catalisadora de desenvolvimento económico e social**, com benefícios claros para a região e o país.
   
 :::
 
 ::: {.callout-caution appearance="default" collapse="true" icon=false}
 
-## 2. Alinhar o Ensino com os Desafios Contemporâneos Económicos, Demográficos e Tecnológicos
+## 3. Alinhar o Ensino com os Desafios Contemporâneos Económicos, Demográficos e Tecnológicos
 
 A missão da UAlg de ensinar e de gerar conhecimento exige estratégias inovadoras capazes de responder às rápidas mudanças tecnológicas e educacionais. Dois desafios principais já se fazem sentir:
 
-  1. Pirâmide demográfica invertida em Portugal – A redução gradual do número de estudantes nacionais coloca as instituições de ensino superior (IES) numa situação de maior competição interna por estudantes, afetando a sua sustentabilidade económica e exigindo uma adaptação estratégica.
+  1. **Pirâmide demográfica invertida em Portugal** – A redução gradual do número de estudantes nacionais coloca as instituições de ensino superior (IES) numa situação de maior competição interna por estudantes, afetando a sua sustentabilidade económica e exigindo uma adaptação estratégica.
 
-  2. Avanços tecnológicos – O acesso generalizado a ferramentas de Inteligência Artificial Generativa, como o ChatGPT, desafia o processo de certificação de conhecimento e competências, pressionando as IES a evoluir os modelos de ensino e alinhá-los com as competências essenciais para o futuro dos seus estudantes.
+  2. **Avanços tecnológicos** – O acesso generalizado a ferramentas de Inteligência Artificial Generativa, como o ChatGPT, desafia o processo de certificação de conhecimento e competências, pressionando as IES a evoluir os modelos de ensino e alinhá-los com as competências essenciais para o futuro dos seus estudantes.
 Para enfrentar estes desafios, defendemos:
 
   - Fomentar a Relação Investigador-Estudante: Desenvolver percursos académicos orientados pela investigação, promovendo uma ligação mais próxima entre investigadores e estudantes para enriquecer a formação e a experiência académica.
@@ -39,34 +61,11 @@ Para enfrentar estes desafios, defendemos:
 
 :::
 
-
-::: {.callout-caution appearance="default" collapse="true" icon=false}
-
-## 3. Garantir o Progresso Sustentado da Investigação na UAlg
-
-  Os investigadores são parte integral da missão da UAlg. Para maximizar o seu contributo, a UAlg deve ser capaz de reter e atrair talento, promovendo simultaneamente a estabilidade e a inovação. Propomos as seguintes estratégias para fortalecer a posição da UAlg como um centro de excelência académica e científica:
-  
-  - Integrar os investigadores de forma mais ativa nas estruturas de governança e decisão, assegurando uma participação plural e significativa nos processos estratégicos da Universidade.
-
-  - Defender quadros claros de progressão na carreira, que ofereçam estabilidade e reconheçam a excelência científica e académica, promovendo um ambiente motivador e meritocrático, é uma das nossas principais bandeiras. É urgente a criação de um regulamento próprio da UAlg para os investigadores, garantindo critérios transparentes de avaliação e progressão na carreira, alinhados com os princípios CoARA, já subscritos pela UAlg. Este regulamento deve assegurar processos de avaliação que considerem a diversidade de percursos na investigação, bem como a diversidade dos contributos dos investigadores para a ciência, a academia e a sociedade.
-
-  - Proporcionar acesso a formação contínua é essencial para garantir o desenvolvimento das competências dos investigadores ao longo das suas carreiras. Para isso, seria interessante criar uma unidade ou iniciativas dedicadas ao desenvolvimento de carreira, com especial atenção aos jovens investigadores, incluindo estudantes de doutoramento e mestrado.
-
-  - Adicionalmente, é crucial promover a saúde mental e o bem-estar profissional, assegurando um ambiente de trabalho equilibrado e saudável, que permita aos investigadores desenvolverem o seu potencial de forma sustentável ao longo do tempo.
-
-  - Defendemos a importância estratégica da contratação de investigadores para a UAlg, estabilizando e atraindo talento através da implementação de dois modelos distintos de contratação de investigadores:
-
-  1. Contratos destinados à retenção de talento e redução da precariedade, assegurando a continuidade de projetos e investigações bem estabelecidos, e reconhecendo o valor dos investigadores internos que já demonstraram repetidamente a sua contribuição.
-
-  2. Novos contratos abertos e competitivos, orientados para a atração de investigadores que contribuam para o rejuvenescimento, diversificação e internacionalização do corpo de investigação, alinhados com os interesses estratégicos e o modelo de sustentabilidade económica adotado pela UAlg.
-
-:::
-
 ::: {.callout-caution appearance="default" collapse="true" icon=false}
 
 ## 4. Construir Pontes entre Academia e Sociedade
 
-  Queremos reforçar o papel da UAlg como um parceiro regional, nacional e internacional, ampliando o seu impacto societal através do fortalecimento das ligações entre academia, indústria e comunidade. A investigação fundamental e aplicada desenvolvida na UAlg desempenha um papel essencial na transferência de conhecimento para a sociedade, o meio empresarial e a indústria. Para maximizar esse impacto, é fundamental:
+  Queremos reforçar o papel da UAlg como um parceiro regional, nacional e internacional, ampliando o seu impacto societal através do **fortalecimento das ligações entre academia, indústria e comunidade**. A investigação fundamental e aplicada desenvolvida na UAlg desempenha um papel essencial na transferência de conhecimento para a sociedade, o meio empresarial e a indústria. Para maximizar esse impacto, é fundamental:
   
   - Promover a transferência de conhecimento de forma estruturada, valorizando e dinamizando a economia regional.
 
