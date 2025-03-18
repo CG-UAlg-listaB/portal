@@ -31,7 +31,7 @@ website:
     left: "Copyright 2025, Lista B - Conselho Geral UAlg" 
     right: 
       - icon: github
-        href: https://github.com/ListaB-ComissaoTrabalhadoresUAlg
+        href: https://github.com/CG-UAlg-listaB/portal
     background: light
 
 format:
